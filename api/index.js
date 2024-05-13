@@ -26,5 +26,4 @@ app.get('/api/transactions',async (req,res)=>{
 });
 
 app.listen(4000);
-//JkmGR9JPkzXvrduY
 //divyansh
